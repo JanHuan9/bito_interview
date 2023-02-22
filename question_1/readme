@@ -1,2 +1,3 @@
 使用套件 cypress mochawesome
 執行環境 nodejs
+執行結果位於 mochawesome-report
